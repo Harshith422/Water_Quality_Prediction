@@ -1,0 +1,10 @@
+{
+    "img_size": [
+        224,
+        224
+    ],
+    "num_images": 960,
+    "label_distribution": {
+        "Unsafe": 960
+    }
+}

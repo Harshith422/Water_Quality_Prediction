@@ -1,0 +1,7 @@
+flask==2.2.3
+pyspark==3.3.1
+pandas==1.5.3
+boto3==1.26.135
+py4j==0.10.9.5
+python-dotenv==1.0.0
+findspark==2.0.1 
